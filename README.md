@@ -25,3 +25,8 @@ https://services.int.sap.eu2.hana.ondemand.com/services/v1/instances/[subaccount
 6) Deploy Oauth Saml Bearer Credential in Neo subaccount
 ![SubAccount 10](https://user-images.githubusercontent.com/17820394/235901301-ab0f3e84-1365-4771-a985-8a1c05677e37.JPG)
 
+Reference Doc
+
+1) https://sap.github.io/cloud-sdk/docs/java/getting-started
+2) https://sap.github.io/cloud-sdk/docs/java/features/connectivity/destination-service
+3) https://sap.github.io/cloud-sdk/docs/java/features/connectivity/http-client
